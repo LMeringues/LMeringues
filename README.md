@@ -17,7 +17,7 @@ Currently finishing a certification programs in **Computer Vision** & **Data Sci
 </p>
 
 ### 🔭 Currently working on
-- Developing a portfolio project.
+- Developing a portfolio project "Smart Car Valuation Tool".
 - Deepening my knowledge in **SQL** and **Statistical Analysis**.
 
 ### 📫 How to reach me
