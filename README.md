@@ -2,7 +2,7 @@
 
 I am an aspiring **Machine Learning Engineer** and **Data Scientist** based in Ukraine.
 I focus on building **End-to-End ML solutions**—from raw data processing to model deployment.
-[cite_start]Currently studying at **Igor Sikorsky KPI**  [cite_start]and finishing a certification program in **Data Science** supported by Sigma Software[cite: 72].
+Currently studying at **Igor Sikorsky KPI** and finishing a certification program in **Data Science** supported by Sigma Software.
 
 ---
 
@@ -27,12 +27,12 @@ I focus on building **End-to-End ML solutions**—from raw data processing to mo
 
 ### 🚀 Recent Highlights & Projects
 
-* [cite_start]**🏦 Bank Customer Churn Prediction System** (Pet-Project) [cite: 74]
+* **🏦 Bank Customer Churn Prediction System** (Pet-Project)
     * Built an end-to-end classification pipeline using **XGBoost** and **SMOTE**.
     * Deployed as an interactive web app using **Streamlit Cloud**.
     * *Result:* Achieved ROC-AUC ~0.79.
 
-* [cite_start]**🚗 Car Price Prediction Model** [cite: 77]
+* **🚗 Car Price Prediction Model**
     * Developed a regression model to estimate market value of vehicles.
     * Focused on feature engineering and cleaning real-world dirty data.
 
@@ -43,9 +43,6 @@ I focus on building **End-to-End ML solutions**—from raw data processing to mo
 
 ### 📫 How to reach me
 
-* [cite_start]**LinkedIn:** [Maksym Litynskyi](https://www.linkedin.com/in/maksym-litynskyi-9a3a77339/) [cite: 54]
-* [cite_start]**Email:** litinskiy2005@gmail.com [cite: 48]
-* [cite_start]**Telegram:** [@r_tot_d](https://t.me/r_tot_d) [cite: 50]
-
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LMeringues&show_icons=true&theme=radical)
+* **LinkedIn:** [Maksym Litynskyi](https://www.linkedin.com/in/maksym-litynskyi-9a3a77339/)
+* **Email:** litinskiy2005@gmail.com
+* **Telegram:** [@r_tot_d](https://t.me/r_tot_d)
